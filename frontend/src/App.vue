@@ -1,15 +1,17 @@
 <template>
   <Sniffer msg="Welcome to Your Vue.js App"/>
+  <!-- <Taishi/> -->
   <el-footer>Ucas | LittleWhitechun | WhiteShark @2021 </el-footer>
 </template>
 
 <script>
 import Sniffer from './components/Sniffer.vue'
-
+// import Taishi from './components/Taishi.vue';
 export default {
   name: 'App',
   components: {
-    Sniffer
+    Sniffer,
+    // Taishi
   }
 }
 </script>

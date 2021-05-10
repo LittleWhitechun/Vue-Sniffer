@@ -168,6 +168,8 @@
               ></div>
             </el-row>
           </el-tab-pane>
+          <!-- <el-tab-pane label="TEST" name="test">
+          </el-tab-pane> -->
         </el-tabs>
       </el-main>
       <el-aside width="200px"></el-aside>
@@ -274,6 +276,9 @@ const axios = require("axios");
 import * as echarts from "echarts";
 export default {
   name: "Sniffer",
+  // components:{
+  //   Sniffer
+  // },
   props: {
     msg: String,
   },

@@ -16,7 +16,25 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8b5c30a-e7e1-471a-85fa-8dfeea687039" name="Default Changelist" comment="first" />
+    <list default="true" id="e8b5c30a-e7e1-471a-85fa-8dfeea687039" name="Default Changelist" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_test/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_test/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_test/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_test/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_test/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_test/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_test/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_test/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_test/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_test/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_test/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Sniffer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Sniffer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snifferbackend/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/snifferbackend/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snifferbackend/my-sniffer-winpacp.py" beforeDir="false" afterPath="$PROJECT_DIR$/snifferbackend/my-sniffer-winpacp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snifferbackend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/snifferbackend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snifferbackend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snifferbackend/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snifferbackend/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/snifferbackend/wsgi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +42,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b6826c74-89cc-438a-87cc-070c1eb10522" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -41,9 +62,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -54,8 +77,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618552374606</updated>
+      <workItem from="1620617662494" duration="391000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -84,38 +111,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1618553759889">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1618553759889" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1618553727801">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1618553727801" />
-    <state x="581" y="114" key="RollbackChangesDialog" timestamp="1618553784309">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="581" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1618553784309" />
-    <state x="144" y="107" key="SettingsEditor" timestamp="1618553552748">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="144" y="107" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618553552748" />
-    <state x="614" y="325" key="VCS.ChangelistChooser" timestamp="1618553666576">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="614" y="325" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1618553666576" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1618553425891">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1618553425891" />
-    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618553669811">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1618553669811" />
   </component>
 </project>
