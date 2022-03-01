@@ -17,3 +17,13 @@ frontend下 npm run serve //启动前端vue项目
 
 "# VueSniffer" 
 "# VueSniffer" 
+
+#### 预览
+
+![image](https://github.com/LittleWhitechun/SDU-Weibo/blob/main/%E9%A2%84%E8%A7%88/sniffer1.png)
+![image](https://github.com/LittleWhitechun/SDU-Weibo/blob/main/%E9%A2%84%E8%A7%88/sniffer2.png)
+![image](https://github.com/LittleWhitechun/SDU-Weibo/blob/main/%E9%A2%84%E8%A7%88/sniffer3.png)
+![image](https://github.com/LittleWhitechun/SDU-Weibo/blob/main/%E9%A2%84%E8%A7%88/sniffer4.png)
+![image](https://github.com/LittleWhitechun/SDU-Weibo/blob/main/%E9%A2%84%E8%A7%88/sniffer5.png)
+![image](https://github.com/LittleWhitechun/SDU-Weibo/blob/main/%E9%A2%84%E8%A7%88/sniffer6.png)
+![image](https://github.com/LittleWhitechun/SDU-Weibo/blob/main/%E9%A2%84%E8%A7%88/sniffer7.png)
